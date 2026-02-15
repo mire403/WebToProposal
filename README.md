@@ -1,6 +1,7 @@
-# 🚀 WebToProposal
-
 <div align="center">
+
+#  WebToProposal
+
 
 **🌐 网页信息自动写方案** | Turn multiple web pages into a structured proposal
 
@@ -1213,5 +1214,6 @@ python cli.py urls.txt --out proposal.md
 - **做判断**（要不要做、怎么做）
 - **做取舍**（路线、边界、资源）
 - **做落地**（指标、计划、预算、风险）
+
 
 它不会替你做决策，但会让你更快进入决策阶段。🚀
