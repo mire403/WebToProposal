@@ -1,0 +1,6 @@
+# 示例 URL 列表
+# 每行一个 URL，以 # 开头的行为注释
+
+https://www.example.com/news/tech-trends-2024
+https://www.example.com/reports/industry-analysis
+https://www.example.com/policy/digital-transformation
