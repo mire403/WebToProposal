@@ -1228,7 +1228,8 @@ python cli.py urls.txt --out proposal.md
 
 **如果这个项目对你有帮助，请给个 ⭐ Star！**
 
-<sub>Made by Haoze Zheng. 2026 Repo2Slides.</sub>
+<sub>Made by Haoze Zheng. 2026 WebToProposal.</sub>
 
 </div>
+
 
