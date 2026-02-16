@@ -1,6 +1,6 @@
 <div align="center">
 
-#  WebToProposal
+
 
 
 **🌐 网页信息自动写方案** | Turn multiple web pages into a structured proposal
@@ -1231,5 +1231,6 @@ python cli.py urls.txt --out proposal.md
 <sub>Made by Haoze Zheng. 2026 WebToProposal.</sub>
 
 </div>
+
 
 
