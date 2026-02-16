@@ -1194,12 +1194,6 @@ python cli.py urls.txt --out proposal.md
 
 ---
 
-## 📜 许可证（License）
-
-本项目默认采用 **MIT License**。如你的组织需要更严格的合规条款，可自行调整许可证与声明。
-
----
-
 ## 🙏 致谢（Acknowledgements）
 
 - `requests`：稳定好用的 HTTP 客户端
@@ -1217,3 +1211,24 @@ python cli.py urls.txt --out proposal.md
 
 
 它不会替你做决策，但会让你更快进入决策阶段。🚀
+
+---
+
+## 👤 作者 (Author)
+
+**Haoze Zheng**
+
+*   🎓 **School**: Xinjiang University (XJU)
+*   📧 **Email**: zhenghaoze@stu.xju.edu.cn
+*   🐱 **GitHub**: [mire403](https://github.com/mire403)
+
+---
+
+<div align="center">
+
+**如果这个项目对你有帮助，请给个 ⭐ Star！**
+
+<sub>Made by Haoze Zheng. 2026 Repo2Slides.</sub>
+
+</div>
+
